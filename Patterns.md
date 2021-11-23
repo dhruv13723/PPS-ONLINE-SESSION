@@ -1,3 +1,3 @@
 # PATTERN QUESTIONS
 
-##Aim: Print the following patterns using loops
+## Aim: Print the following patterns using loops
